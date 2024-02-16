@@ -1,8 +1,17 @@
 <h1 align="center">Bonjour 👋, je suis Julien Blase</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Etudiant en Développement web</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artahs" alt="artahs" /></a> </p>
+
+- 👨‍💻 Retrouvez tout mes projets ici [https://portfolio-julien-blase.web.app/](https://portfolio-julien-blase.web.app/)
+
+- 📫 Vous pouvez me contacter ici **julien.blase05@gmail.com**
+
+- 📄 Découvrez mes expériences [https://portfolio-julien-blase.web.app/asset/cv_julien_blase.pdf](https://portfolio-julien-blase.web.app/asset/cv_julien_blase.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/julien-blase-8b1840283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/julien-blase-8b1840283" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
